@@ -1,0 +1,54 @@
+
+body {
+    background-color:wheat;
+  }
+ 
+  #intro {
+    background: #2c3e50;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: white;
+  }
+  
+  
+  #footwrap {
+    background: #2f2f2f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  #footwrap p {
+    color: white;
+  }
+  
+  #footwrap h5 {
+    color: white;
+  }
+  
+  #footwrap t {
+    font-weight: 700;
+  }
+  
+  #footwrap i {
+    padding-right: 8px;
+    color: #1abc9c;
+  }
+  
+  /* Copyright Wrap */
+  
+  #copyrights {
+    background: #222222;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+  }
+  
+  #copyrights p {
+    margin: 0 0 5px 0;
+  }
+  
+  .credits {
+    color: #999;
+  }
+    
